@@ -8,4 +8,13 @@ const Map<String, String> enBazaar = {
   'recently.added': 'Recently added',
   'shops': 'Shops',
   'shop.insert': '+ Add new shop',
+  'shop.create': 'Create new shop',
+  'shop.name': 'Shop name',
+  'shop.url': 'URL to shop',
+  'shop.default': '40',
+  'shop.description': 'Shop description',
+  'image.choose': 'Choose an image',
+  'camera.default': 'Camera',
+  'gallery.default': 'Gallery',
+  'cancel.default': 'Cancel',
 };
